@@ -1,6 +1,6 @@
 ![image alt](https://github.com/spiralitt/Spiralitt/blob/96cae080138312f2f80944c2bc08547f019ab99c/20250112_133842.png
 )
-
+![image alt](https://github.com/spiralitt/Spiralitt/blob/0ea3105c6f5a30210c1f834937fde5bac6aee262/20250112_135243.png)
 <!--
 **spiralitt/Spiralitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
