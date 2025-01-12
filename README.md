@@ -1,4 +1,4 @@
-![image alt](https://github.com/spiralitt/Spiralitt/blob/581f7f69b3c3c7999b789b7ccfad057e0f1eb47f/2a0d7deec085b8d7c5562b5960c66885.jpg
+![image alt](https://github.com/spiralitt/Spiralitt/blob/96cae080138312f2f80944c2bc08547f019ab99c/20250112_133842.png
 )
 
 <!--
